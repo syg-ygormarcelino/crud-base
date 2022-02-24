@@ -9,5 +9,5 @@
     <input type="email" name="email">
     <label for="">Password:</label>
     <input type="password" name="password">
-    <input type="submit" value="Cadastrar">
+    <input type="submit" value="Cadastrar" name="newUser">
 </form>
